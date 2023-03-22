@@ -6,6 +6,7 @@
 
 .message .hljs {
   background-color: transparent;
+  font-size: 1.25rem;
 }
 
 .message table {
