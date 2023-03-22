@@ -27,5 +27,5 @@
 }
 
 .prose, [prose=""] {
-  max-width: 84ch;
+  max-width: 80ch;
 }
